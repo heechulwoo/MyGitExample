@@ -23,7 +23,7 @@ public class NoCommit_7_untrack2 {
        10. 이제부터  NoCommit_7_untrack2.java 파일은 ignore 대상이 되어서
            Unstaged Changes(관리를 받지 않는 단계) 와 Staged Changes(관리를 받는 단계)에도 등록이 안되고 Commit 대상도 안되고 당연히 Push 도 되지 않는 파일이 됩니다.    	
 	 */
-		System.out.println("== NoCommit_7_untrack2.java 파일입니다. ==");  
-	}
+		  System.out.println("== NoCommit_7_untrack2.java 파일입니다. ==");  
+	} 
 
 }
